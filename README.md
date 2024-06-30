@@ -4,7 +4,8 @@
 This is a repository of my project files and final submission for my final portfolio for the CS-230 Operating Platforms Class at SNHU.
 
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
-
+The Gaming Room client desired to expand their already long-standing successful game to a cross-platform approach. This would faciliate the need of cross-plaform APIs
+and development to take into account implementation for several differnt operating systems. 
 
 What did you do particularly well in developing this documentation?
 
